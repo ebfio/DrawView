@@ -14,3 +14,7 @@ CocoaPod release
 - Updated example showing how to read the current drawing view.
 - Added signature mode.
 - Ability to clear drawing view.
+
+# 1.0.1
+
+- Added default stroke width value. 

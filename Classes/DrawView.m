@@ -45,6 +45,7 @@
     self.backgroundColor = [UIColor whiteColor];
     _strokeColor = [UIColor blackColor];
     _canEdit = YES;
+    _strokeWidth = 10.0f;
 }
 - (void)setStrokeColor:(UIColor *)strokeColor{
     _strokeColor = strokeColor;
